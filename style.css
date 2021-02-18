@@ -1,0 +1,74 @@
+.heading
+{
+  font-size: 23px;
+  width: 100%;
+  margin: 0px;
+  box-shadow:5px 5px 5px grey;
+}
+.heading_div
+{
+  float: none;
+  background: white ; 
+  padding: 10px;
+  border-radius: 20px; 
+  color: black;
+  box-shadow:5px 5px 5px grey;
+}
+.heading_div2
+{
+  font-size: 18px ;
+}
+.result_para_tag
+{
+  box-shadow:5px 5px 5px grey;
+  font-size: 20px;
+}
+.result_para_tag span{
+  white-space: pre-line;
+}
+.copy_right_footer {
+  position: fixed;
+  color: white;
+  bottom: 0;
+  width: 100%;
+  background-color: rgb(202, 189, 189);
+  line-height: 3;
+  text-align: center;
+}
+h6{
+  color: red;
+}
+h1{
+  color: rgb(0, 0, 0);
+}
+.mini_result{
+  text-align: center;
+}
+.text_images_and_result{
+  background-color: rgb(90, 72, 72);
+  box-shadow: gray;
+}
+.img-responsive{
+  border-radius: 50px;
+  height: 300px;
+  width: 300px;
+}
+.Output{
+  background-color: rgb(255, 255, 255);
+  border-radius: 50px;
+  height: 50px;
+}
+.Output2{
+  background-color: rgb(255, 255, 255);
+  border-radius: 50px;
+  height: 50px;
+}
+.test_image_and_result{
+text-align: center;
+background-color:grey;
+border-radius: 50px;
+border: black;
+box-shadow: 5px 5px 5px grey;
+width: 1000px;
+margin-top: 10px;
+}
